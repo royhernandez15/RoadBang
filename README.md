@@ -1,2 +1,2 @@
 # RoadBang
-MEREECE Project
+MEREECE/DIGCOMM Project
