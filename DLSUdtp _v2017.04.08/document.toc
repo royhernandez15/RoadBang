@@ -1,0 +1,82 @@
+\contentsline {chapter}{Thesis\ Approval Sheet }{ii}{section*.1}
+\contentsline {chapter}{Acknowledgment}{iv}{section*.3}
+\contentsline {chapter}{Abstract}{v}{section*.5}
+\contentsline {chapter}{Table of Contents}{vi}{section*.7}
+\contentsline {chapter}{List of Figures}{ix}{section*.8}
+\contentsline {chapter}{List of Tables}{x}{section*.9}
+\contentsline {chapter}{Abbreviations}{xi}{section*.10}
+\contentsline {chapter}{Notation}{xii}{section*.12}
+\contentsline {chapter}{Glossary}{xiii}{section*.14}
+\contentsline {chapter}{Listings}{xiv}{section*.16}
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introduction}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background of the Study}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Prior Studies}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Problem Statement}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objectives}{6}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}General Objective(s)}{6}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{7}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Significance of the Study}{7}{section.1.5}
+\contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{7}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Assumptions}{8}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Scope}{8}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Delimitations}{8}{subsection.1.6.3}
+\contentsline {section}{\numberline {1.7}Description and Methodology of the Thesis}{9}{section.1.7}
+\contentsline {section}{\numberline {1.8}Overview of the Thesis}{9}{section.1.8}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Existing Work}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Lacking in the Approaches}{13}{section.2.2}
+\contentsline {section}{\numberline {2.3}Summary}{15}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}Summary}{19}{section.3.1}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{20}{chapter.4}
+\contentsline {section}{\numberline {4.1}Summary}{23}{section.4.1}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{24}{chapter.5}
+\contentsline {section}{\numberline {5.1}Implementation}{25}{section.5.1}
+\contentsline {section}{\numberline {5.2}Evaluation}{27}{section.5.2}
+\contentsline {section}{\numberline {5.3}Summary}{30}{section.5.3}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussions}}{31}{chapter.6}
+\contentsline {section}{\numberline {6.1}Summary}{34}{section.6.1}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{35}{chapter.7}
+\contentsline {section}{\numberline {7.1}Concluding Remarks}{36}{section.7.1}
+\contentsline {section}{\numberline {7.2}Contributions}{36}{section.7.2}
+\contentsline {section}{\numberline {7.3}Recommendations}{36}{section.7.3}
+\contentsline {section}{\numberline {7.4}Future Prospects}{38}{section.7.4}
+\contentsline {chapter}{References}{40}{chapter*.18}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Student Research Ethics Clearance}}{49}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Answers to Questions to this Thesis}}{51}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Revisions to the Proposal}}{60}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Revisions to the Final}}{66}{appendix.D}
+\contentsline {appendix}{\chapternumberline {E}\MakeTextUppercase {Usage Examples}}{72}{appendix.E}
+\contentsline {section}{\numberline {E1}Equations}{73}{section.E.1}
+\contentsline {section}{\numberline {E2}Notations}{75}{section.E.2}
+\contentsline {subsection}{\numberline {E2.1}Math alphabets}{75}{subsection.E.2.1}
+\contentsline {subsection}{\numberline {E2.2}Vector symbols}{75}{subsection.E.2.2}
+\contentsline {subsection}{\numberline {E2.3}Matrix symbols}{75}{subsection.E.2.3}
+\contentsline {subsection}{\numberline {E2.4}Tensor symbols}{76}{subsection.E.2.4}
+\contentsline {subsection}{\numberline {E2.5}Bold math version}{77}{subsection.E.2.5}
+\contentsline {subsubsection}{\numberline {E2.5.1}Vector symbols}{77}{subsubsection.E.2.5.1}
+\contentsline {subsubsection}{\numberline {E2.5.2}Matrix symbols}{77}{subsubsection.E.2.5.2}
+\contentsline {subsubsection}{\numberline {E2.5.3}Tensor symbols}{77}{subsubsection.E.2.5.3}
+\contentsline {section}{\numberline {E3}Abbreviation}{81}{section.E.3}
+\contentsline {section}{\numberline {E4}Glossary}{83}{section.E.4}
+\contentsline {section}{\numberline {E5}Figure}{85}{section.E.5}
+\contentsline {section}{\numberline {E6}Table}{91}{section.E.6}
+\contentsline {section}{\numberline {E7}Algorithm or Pseudocode Listing}{95}{section.E.7}
+\contentsline {section}{\numberline {E8}Program/Code Listing}{97}{section.E.8}
+\contentsline {section}{\numberline {E9}Referencing}{99}{section.E.9}
+\contentsline {subsection}{\numberline {E9.1}A subsection}{100}{subsection.E.9.1}
+\contentsline {subsubsection}{\numberline {E9.1.1}A sub-subsection}{101}{subsubsection.E.9.1.1}
+\contentsline {section}{\numberline {E10}Citing}{102}{section.E.10}
+\contentsline {subsection}{\numberline {E10.1}Books}{102}{subsection.E.10.1}
+\contentsline {subsection}{\numberline {E10.2}Booklets}{104}{subsection.E.10.2}
+\contentsline {subsection}{\numberline {E10.3}Proceedings}{104}{subsection.E.10.3}
+\contentsline {subsection}{\numberline {E10.4}In books}{104}{subsection.E.10.4}
+\contentsline {subsection}{\numberline {E10.5}In proceedings}{105}{subsection.E.10.5}
+\contentsline {subsection}{\numberline {E10.6}Journals}{105}{subsection.E.10.6}
+\contentsline {subsection}{\numberline {E10.7}Theses/dissertations}{107}{subsection.E.10.7}
+\contentsline {subsection}{\numberline {E10.8}Technical Reports and Others}{107}{subsection.E.10.8}
+\contentsline {subsection}{\numberline {E10.9}Miscellaneous}{108}{subsection.E.10.9}
+\contentsline {section}{\numberline {E11}Index}{109}{section.E.11}
+\contentsline {section}{\numberline {E12}Adding Relevant PDF Pages}{110}{section.E.12}
+\contentsline {appendix}{\chapternumberline {F}\MakeTextUppercase {Vita}}{114}{appendix.F}
+\contentsfinish 
